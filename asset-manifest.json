@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/inventory-system/static/css/main.216d7b5f.css",
+    "main.js": "/inventory-system/static/js/main.dd40f572.js",
+    "static/media/logo.png": "/inventory-system/static/media/logo.990397b84c4c6c0ce4f8.png",
+    "index.html": "/inventory-system/index.html",
+    "main.216d7b5f.css.map": "/inventory-system/static/css/main.216d7b5f.css.map",
+    "main.dd40f572.js.map": "/inventory-system/static/js/main.dd40f572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.216d7b5f.css",
+    "static/js/main.dd40f572.js"
+  ]
+}
